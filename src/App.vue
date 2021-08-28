@@ -23,6 +23,7 @@
     <el-button type="info">信息按钮</el-button>
     <el-button type="warning">警告按钮</el-button>
     <el-button type="danger">危险按钮</el-button>
+    <el-button type="danger">用于图形界面提交测试</el-button>
   </el-row>
 
   <button @click="modalStatus = true">展示弹窗</button>
